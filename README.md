@@ -3,7 +3,7 @@ Example for downloading / parsing Wikipedia multistream bz2 files via libtorrent
 
 ## Example usage
 
-``
+```
 git clone https://github.com/mjcastner/wiki-multistream-example.git;
 cd wiki-multistream-example/;
 pip install -r requirements.txt;
